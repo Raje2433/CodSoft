@@ -67,5 +67,3 @@ Each task demonstrates a different application of Java programming and problem-s
 - **Learning Outcomes:** Java Swing, event-driven programming, file I/O, and collections (`ArrayList`).
 
 ---
-
-git clone https://github.com/<your-username>/<repo-name>.git
